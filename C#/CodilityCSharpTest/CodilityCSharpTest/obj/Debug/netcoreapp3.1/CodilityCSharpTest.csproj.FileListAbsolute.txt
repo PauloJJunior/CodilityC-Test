@@ -1,0 +1,12 @@
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\bin\Debug\netcoreapp3.1\CodilityCSharpTest.exe
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\bin\Debug\netcoreapp3.1\CodilityCSharpTest.deps.json
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\bin\Debug\netcoreapp3.1\CodilityCSharpTest.runtimeconfig.json
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\bin\Debug\netcoreapp3.1\CodilityCSharpTest.runtimeconfig.dev.json
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\bin\Debug\netcoreapp3.1\CodilityCSharpTest.dll
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\bin\Debug\netcoreapp3.1\CodilityCSharpTest.pdb
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\obj\Debug\netcoreapp3.1\CodilityCSharpTest.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\obj\Debug\netcoreapp3.1\CodilityCSharpTest.AssemblyInfo.cs
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\obj\Debug\netcoreapp3.1\CodilityCSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\obj\Debug\netcoreapp3.1\CodilityCSharpTest.dll
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\obj\Debug\netcoreapp3.1\CodilityCSharpTest.pdb
+C:\Users\paulo\Desktop\code\CodilityC-Test\C#\CodilityCSharpTest\CodilityCSharpTest\obj\Debug\netcoreapp3.1\CodilityCSharpTest.genruntimeconfig.cache
